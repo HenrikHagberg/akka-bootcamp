@@ -67,7 +67,6 @@ namespace WinTail
             public ValidationError(string reason) : base(reason) { }
         }
 
-
         #endregion
 
 
